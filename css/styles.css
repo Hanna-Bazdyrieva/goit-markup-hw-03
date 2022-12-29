@@ -254,6 +254,7 @@ header .studio {
 
 .feature-list {
   display: flex;
+  gap: 30px;
 }
 .feature-list .title {
   margin-top: 0;
@@ -267,7 +268,7 @@ header .studio {
   text-transform: uppercase;
 }
 .feature-list .item {
-  width: 270px;
+  /* width: 270px; */
 }
 
 /* activities */
